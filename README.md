@@ -1,7 +1,8 @@
 # MachineLearning
 Basic machine learning projects. Most datasets are from kaggle.
 
-Note : Just in case opening a ipynb file is failing please open the notebook with the github link in https://nbviewer.jupyter.org/
+# Note :
+Just in case opening a ipynb file is failing please open the notebook with the github link in https://nbviewer.jupyter.org/
 
 The Pulsar Star Dataset : https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star
 This project shows how to use Scikit-learn libraries to make a basic classification model.
